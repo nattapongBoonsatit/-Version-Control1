@@ -58,7 +58,11 @@ export default defineConfig((/* ctx */) => {
 
       // extendViteConf (viteConf) {},
       // viteVuePluginOptions: {},
+<<<<<<< HEAD
 
+=======
+      
+>>>>>>> thai-lang
       vitePlugins: [
         ['vite-plugin-checker', {
           eslint: {
@@ -90,7 +94,11 @@ export default defineConfig((/* ctx */) => {
       // directives: [],
 
       // Quasar plugins
+<<<<<<< HEAD
       plugins: ['Notify',]
+=======
+      plugins: []
+>>>>>>> thai-lang
     },
 
     // animations: 'all', // --- includes all animations
